@@ -181,27 +181,27 @@
           <div class="offcanvas-body align-items-center justify-content-end">
             <ul class="navbar-nav mb-2 mb-lg-0">
               <li class="nav-item px-3 py-2 py-lg-0">
-                <a class="nav-link fw-semibold active p-0" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link fw-semibold active p-0" aria-current="page" href="#">Home</a>
               </li>
               <li class="nav-item px-3 py-2 py-lg-0 dropdown">
                 <a class="nav-link fw-semibold p-0 dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
                   aria-expanded="false">Pages</a>
                 <ul class="dropdown-menu dropdown-menu-end animate slide mt-3 border-0 shadow">
-                  <li><a href="about.html" class="dropdown-item">About Us</a></li>
-                  <li><a href="gallery.html" class="dropdown-item">Gallery</a></li>
-                  <li><a href="review.html" class="dropdown-item">Reviews</a></li>
-                  <li><a href="thankyou.html" class="dropdown-item">Thankyou</a></li>
+                  <li><a href="#" class="dropdown-item">Gallery</a></li>
+                  <li><a href="#" class="dropdown-item">About Us</a></li>
+                  <li><a href="#" class="dropdown-item">Reviews</a></li>
+                  <li><a href="#" class="dropdown-item">Thankyou</a></li>
                 </ul>
               </li>
               <li class="nav-item px-3 py-2 py-lg-0 dropdown">
                 <a class="nav-link fw-semibold p-0 dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
                   aria-expanded="false">Shop</a>
                 <ul class="dropdown-menu dropdown-menu-end animate slide mt-3 border-0 shadow">
-                  <li><a href="shop.html" class="dropdown-item">Shop</a></li>
-                  <li><a href="single-product.html" class="dropdown-item">Single-Product</a></li>
-                  <li><a href="cart.html" class="dropdown-item">Cart</a></li>
-                  <li><a href="wishlist.html" class="dropdown-item">Wishlist</a></li>
-                  <li><a href="checkout.html" class="dropdown-item">Checkout</a></li>
+                  <li><a href="#" class="dropdown-item">Shop</a></li>
+                  <li><a href="#" class="dropdown-item">Single-Product</a></li>
+                  <li><a href="#" class="dropdown-item">Cart</a></li>
+                  <li><a href="#" class="dropdown-item">Wishlist</a></li>
+                  <li><a href="#" class="dropdown-item">Checkout</a></li>
                 </ul>
               </li>
               <li class="nav-item px-3 py-2 py-lg-0 dropdown">
@@ -213,10 +213,10 @@
                 </ul>
               </li>
               <li class="nav-item px-3 py-2 py-lg-0">
-                <a class="nav-link fw-semibold p-0" href="contact.html">Contact</a>
+                <a class="nav-link fw-semibold p-0" href="#">Contact</a>
               </li>
               <li class="nav-item px-3 py-2 py-lg-0">
-                <a class="nav-link fw-semibold p-0" href="database/index.php">Appointment</a>
+                <a class="nav-link fw-semibold p-0" href="#">Appointment</a>
               </li>
               <li class="nav-item search-dropdown py-2 py-lg-0 ms-3 ms-lg-5 dropdown">
                 <a class="nav-link p-0 search dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
